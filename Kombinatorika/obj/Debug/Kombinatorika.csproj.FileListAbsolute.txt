@@ -1,0 +1,7 @@
+C:\Users\luka\source\repos\Kombinatorika\bin\Debug\Kombinatorika.exe.config
+C:\Users\luka\source\repos\Kombinatorika\bin\Debug\Kombinatorika.exe
+C:\Users\luka\source\repos\Kombinatorika\bin\Debug\Kombinatorika.pdb
+C:\Users\luka\source\repos\Kombinatorika\obj\Debug\Kombinatorika.csproj.AssemblyReference.cache
+C:\Users\luka\source\repos\Kombinatorika\obj\Debug\Kombinatorika.csproj.CoreCompileInputs.cache
+C:\Users\luka\source\repos\Kombinatorika\obj\Debug\Kombinatorika.exe
+C:\Users\luka\source\repos\Kombinatorika\obj\Debug\Kombinatorika.pdb
